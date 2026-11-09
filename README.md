@@ -31,4 +31,4 @@ Cada pasta tem o notebook executado e um README com a metodologia, os resultados
 
 ---
 
-**Victor Hugo Oliveira da Silva** — ICMC/USP · victorsilva698@usp.br
+**Victor Hugo Oliveira da Silva** — ICMC/USP ·
